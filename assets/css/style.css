@@ -538,6 +538,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.centralizar{
+text-align: center;
+}
+
 .about h3 {
   font-weight: 400;
   font-size: 34px;
@@ -1038,14 +1042,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #1bac91;
+  background: #000000;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #1bac91;
+  background: #000000;
   color: #fff;
 }
 
@@ -1191,7 +1195,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1bac91;
+  background: #000000;
   color: #fff;
   text-decoration: none;
 }
